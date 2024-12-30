@@ -19,12 +19,12 @@ Un défi ludique pour Noël 2024, explorant les outils SIG et GeoDatasciences av
   </tr>
 </table><br/>
 
-> 📂 Consultez le [notebook complet](https://github.com/mandresyandri/defi_carto_sapin_2024/blob/main/christmas_tree.ipynb) pour découvrir les étapes et le code source.  
+> 📂 Consultez le [notebook complet](https://github.com/mandresyandri/defi_carto_sapin_2024/blob/main/christmas_tree.ipynb) pour découvrir le code source et si vous voulez reproduire la visualisation à partir [des données](https://github.com/mandresyandri/defi_carto_sapin_2024/blob/main/data/christmas_tree.parquet) retravaillé de la source.  
 
 ---
 
 ## 🎯 Objectif  
-Reproduire cette [carte](result/sapin_result.jpeg).  
+Reproduire cette [carte](https://github.com/mandresyandri/defi_carto_sapin_2024/blob/main/assets/christmas_tree_esri.jpeg?raw=true) avec :
 - Liberté sur la police et les effets visuels.  
 - Texte de signature modifiable. 
 
