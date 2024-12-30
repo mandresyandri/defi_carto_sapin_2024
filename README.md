@@ -11,7 +11,7 @@ Un défi ludique pour Noël 2024, explorant les outils SIG et GeoDatasciences av
 <table>
   <tr>
     <td align="center"><b>Ma version</b></td>
-    <td align="center"><b>Base (ESRI)</b></td>
+    <td align="center"><b>Version de Kevin Prieur(ESRI)</b></td>
   </tr>
   <tr>
     <td><img src="https://github.com/mandresyandri/defi_carto_sapin_2024/blob/main/assets/christmas_tree.png?raw=true" alt="Ma version" width="400"></td>
